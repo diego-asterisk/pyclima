@@ -37,7 +37,9 @@ Just run `python3 clima.py`
 [[Back to top]](https://github.com/diego-asterisk/pyclima#index)
 
 To get a OpenWeatherMap API key, you must register here:
+
     https://home.openweathermap.org/users/sign_up
+    
 After you have a OpenWeatherMap key, you can save it into the OWM key file: ~/.owm.key
 
 ## Contributing
